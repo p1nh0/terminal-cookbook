@@ -11,3 +11,7 @@ man - see manual
 ctrl+C - quit
 
 [nano](https://ss64.com/osx/nano.html) - text editor
+
+--help - show command help 
+
+--version - show version

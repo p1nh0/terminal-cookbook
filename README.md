@@ -10,4 +10,4 @@ man - see manual
 
 ctrl+C - quit
 
-nano - text editor
+[nano](https://ss64.com/osx/nano.html) - text editor

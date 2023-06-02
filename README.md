@@ -37,5 +37,5 @@ Command-V: Start up in verbose mode.
 
 Eject (⏏) or F12 or mouse button or trackpad button: Eject removable media, such as an optical disc.
 
-# Schematics
-[Macbook pro mid 2012 unibody schematic](https://www.apple-schematic.se/board/820-3115-macbook-pro-13-mid-2012/)
+# Schematics and Boards
+[Macbook pro mid 2012 unibody schematic and board](https://www.apple-schematic.se/board/820-3115-macbook-pro-13-mid-2012/)

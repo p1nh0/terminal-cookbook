@@ -39,3 +39,6 @@ Eject (⏏) or F12 or mouse button or trackpad button: Eject removable media, su
 
 # Schematics and Boards
 [Macbook pro mid 2012 unibody schematic and board](https://www.apple-schematic.se/board/820-3115-macbook-pro-13-mid-2012/)
+
+# Apple firmware and software
+[AHT & ASD Apple Hardware Test and Apple Service Diagnostics](www.macintoshrepository.org)
